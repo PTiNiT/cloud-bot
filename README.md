@@ -4,4 +4,6 @@
 updating file 
 
 
-making new changes 
+making new changes git commands 
+
+making changes from tutorial/git 
