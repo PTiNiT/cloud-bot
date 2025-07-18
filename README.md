@@ -3,5 +3,8 @@
 
 updating file 
 
+making new changes git commands 
 
-making new changes 
+Making changes from tutorial/git
+
+
